@@ -1,0 +1,9 @@
+CREDITS
+
+1) Collecting face data code:
+Adarsh Menon on YouTube (Github: adarsh1021)
+
+2) Reference image + known_dist & known_width:
+AiPhile on YouTube (Github: https://github.com/Asadullah-Dal17/Distance_measurement_using_single_camera)
+
+
